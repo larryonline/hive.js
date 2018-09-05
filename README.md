@@ -1,5 +1,10 @@
 # Hive
 
+### Installation
+
+### How to use
+
+### Plugins
 
 ### Road Map
 
@@ -10,10 +15,10 @@
     * 支持 Stats Log 输出
 
 
-* v0.2 支持中间件
-    * 支持 Request MW
+* v0.2 支持Request / Response 扩展
+    * 支持 Request 中间件
         * 支持 Header 配置
-    * 支持 Response MW
+    * 支持 Response 中间件
         * 支持自定义内容反序列化
 
 
@@ -31,7 +36,7 @@
     * 支持 POST 请求
 
 
-* v0.6 支持 HTTPS 
+* v0.6 支持 HTTPS
 
 
 * v0.7 具备受限内容访问能力
